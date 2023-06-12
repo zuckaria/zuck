@@ -34,6 +34,9 @@
 # Results
 # The results of the analysis are as follows:
 
+# Testamonials
+# clients praising about the service
+
 # The main features of the dataset is to make better decision.
 # The insights that can be gained from the data.
 
