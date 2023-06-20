@@ -1,11 +1,7 @@
 # Data Analytical Project
 
-# This project is a data analysis of the AQUOS dataset. The goal of the project is to use the data to answer the following questions:
+# This project is a data analysis of the AQUOS dataset. The goal of the project is to use the data to improve and make better decisions for the businesses. AQUOS provides a better analytical platform.
 
-# What are the main features of the dataset?
-# What are the relationships between the features?
-# What are the insights that can be gained from the data?
-# The project is divided into the following sections:
 
 # Introduction
 # Data Exploration
@@ -15,28 +11,27 @@
 # Conclusion
 
 # Introduction
-# The AQUOS dataset is a collection of data for analytical purposes
-
+# The AQUOS dataset is a collection of data for analytical purposes. it expalins what the product does
 # The dataset contains a lot of information that will help to streamline the business operation
 
-# Data Exploration
-
+# Data analytical
 # The data was explored using the following methods:
 
 # Data wrangling
 # Data cleaning
 # Data visualization
 # Data Analysis
-# The data was analyzed using the following methods:
 
-# Statistical analysis
+# faetures 
+# data collection
+# artificial learning
 # Machine learning
 
 # Results
-# The results of the analysis are as follows:
+# The results of the analysis are as follows: 
 
 # Testamonials
-# clients praising about the service
+# clients praising about the service and how it changed their environment and bottomline
 
 # The main features of the dataset is to make better decision.
 # The insights that can be gained from the data.
